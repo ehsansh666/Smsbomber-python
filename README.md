@@ -40,7 +40,7 @@ ___
 ### سپس برای اجرای اسکریپت دستورات زیر را وارد کنید
 ___
 
-* git clone https://github.com/Mt-6/smsBomber
+* git clone https://https://github.com/amir0026a/Smsbomber-python
 * cd Smsbomber-python
 > اول بزرگ نوشته میشه (S) دقت کنید
 * python3 sms.py
