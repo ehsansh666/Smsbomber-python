@@ -49,9 +49,6 @@ ___
 <br>
 <br>
 
-## My Telegram
-[![GNU GPLv3 Image](https://telegram.org/img/t_logo.png)](http://t.me/amir0026a)
-
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
