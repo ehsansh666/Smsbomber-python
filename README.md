@@ -1,7 +1,7 @@
 # Smsbomber-python
 SMS Bomber for my family
 
-### نوشته شده است هرگونه  کپی بدون ذکر منبع شرعا حرام است amir0026a این اسکریپت توسط
+### نوشته شده است هرگونه  کپی بدون ذکر منبع شرعا حرام است amirdecoder این اسکریپت توسط
 ___
 امیدوارم از این اسکریپت لذت ببرید  ❤️
 <br>
@@ -41,7 +41,7 @@ ___
 ### سپس برای اجرای اسکریپت دستورات زیر را وارد کنید
 ___
 
-* git clone https://github.com/amir0026a/Smsbomber-python
+* git clone https://github.com/amirdecoder/Smsbomber-python
 * cd Smsbomber-python
 > اول بزرگ نوشته میشه (S) دقت کنید
 * python3 sms.py
@@ -52,8 +52,8 @@ ___
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
--  [Telegram](http://t.me/amir0026a)
--  [Instagram](http://instagram.com/amir0026_a)
+-  [Telegram](http://t.me/amirdecoder)
+-  [Instagram](http://instagram.com/amirdecoder)
 -  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
 -  [Discord](http://discord.gg/T4JytppwT8)
 
